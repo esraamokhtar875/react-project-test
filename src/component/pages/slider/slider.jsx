@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Pagination } from "react-bootstrap";
-import "./Slider.css";
+import "./slider.css";
 
 function Slider({ currentPage, totalPages, onPageChange }) {
     const handlePageChange = (page) => {

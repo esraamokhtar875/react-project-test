@@ -1,10 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "../component/pages/Home/Home";
-import Favorites from "../component/fav/Fav";
-import WatchList from "../component/pages/Watch/Watch";
-import NotFound from "../component/notfound/Notfound";
-import Details from "../component/pdaitels/Details";
-import AppNavbar from "../component/pages/nav/Nav";
+import Home from "../component/pages/Home/home";
+import Favorites from "../component/fav/fav";
+import WatchList from "../component/pages/Watch/watch";
+import NotFound from "../component/notfound/notfound";
+import Details from "../component/pdaitels/details";
+import AppNavbar from "../component/pages/nav/nav";
 // import Search from "../component/pages/search/Search";
 
 function AppRoute() {

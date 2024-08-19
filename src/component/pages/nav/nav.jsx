@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import "./Nav.css";
+import "./nav.css";
 
 // import { useLanguage } from "../../../context/langcontext";
 

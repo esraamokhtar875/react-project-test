@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import "./Home.css";
-import MovieCard from "../card/Card";
-import Slider from "../slider/Slider";
+import './home.css';
+import MovieCard from "../card/card";
+import Slider from "../slider/slider";
 import Search from "../search/Search";
 
 const Home = () => {
