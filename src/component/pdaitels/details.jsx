@@ -1,9 +1,9 @@
 import React from "react";
 
-const Details=()=>{
-    return(
+function Details() {
+    return (
         <>
-        <h1>Details Page</h1>
+            <h1>Details Page</h1>
         </>
     );
 }

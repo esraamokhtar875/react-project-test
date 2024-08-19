@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
-const NotFound = () =>{
-    return(
+function NotFound() {
+    return (
         <>
-        <h1>NotFound Page</h1>
+            <h1>NotFound Page</h1>
         </>
     );
 }

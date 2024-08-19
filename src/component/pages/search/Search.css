@@ -1,4 +1,4 @@
-.search{
+.search {
     border: none;
     border-radius: 10px;
     background-color: rgb(238, 235, 235);
@@ -13,18 +13,17 @@
     box-shadow: 2px 2px gray;
 }
 
-.search input{
+.search input {
     padding: 10px;
     font-size: 20px;
     width: 90%;
     outline: none;
     border-radius: 10px;
-
 }
 
-.search button{
+.search button {
     background-color: yellow;
-    color:black;
+    color: black;
     border: none;
     border-radius: 10px;
     padding: 10px 20px;

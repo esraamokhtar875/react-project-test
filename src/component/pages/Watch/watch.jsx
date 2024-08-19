@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
-const WatchList = () =>{
-    return(
+function WatchList() {
+    return (
         <>
-        <h1>Watchlist Page</h1>
+            <h1>Watchlist Page</h1>
         </>
     );
 }

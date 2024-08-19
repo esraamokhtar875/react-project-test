@@ -1,15 +1,14 @@
-import React from 'react';
-import AppRoute from '../src/router/router.jsx';
-
+import React from "react";
+import AppRoute from "./router/Router.jsx";
 
 function App() {
     return (
-        
-        <div className="App">
-                <AppRoute/>
+        <>
+            <div className="App">
+                <AppRoute />
             </div>
+        </>
     );
 }
 
 export default App;
-
